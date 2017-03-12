@@ -1,0 +1,6 @@
+.x-contents>.x-contents-content {
+    overflow: hidden;
+}
+.x-contents[xid=carousel]{
+    height:288px;
+}
